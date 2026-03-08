@@ -63,6 +63,7 @@ Thumbs.db
 # Project local config / secrets
 .env
 .env.*
+!.env.example
 
 # Logs and runtime artifacts
 *.log
